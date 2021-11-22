@@ -1,0 +1,5 @@
+rootProject.name = 'aticatac'
+include 'common'
+include 'client'
+include 'database'
+
